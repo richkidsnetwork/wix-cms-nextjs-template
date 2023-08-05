@@ -436,9 +436,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@netlify/ipx@npm:^1.4.1":
-  version: 1.4.1
-  resolution: "@netlify/ipx@npm:1.4.1"
+"@netlify/ipx@npm:^1.4.2":
+  version: 1.4.2
+  resolution: "@netlify/ipx@npm:1.4.2"
   dependencies:
     "@netlify/functions": ^1.6.0
     etag: ^1.8.1
@@ -450,17 +450,17 @@ __metadata:
     node-fetch: ^2.0.0
     ufo: ^1.0.0
     unstorage: ^1.0.0
-  checksum: a11964a47786c57bb1c768ab8b8e0b70b9c03d4bcb9a381370c22478dfd3c883df9f02940c2ea2215b0d12e50822d370e590272ac650e6a44fbb0cd40a85d6c1
+  checksum: f9a53d6c9a7d7bf50cd22a0a7402f074348219cecffb78f43d7f7b1e63a4497b718d486087f4a6b0a67cdd47bece9f434111d7bc28920d44f52eb2e918628edb
   languageName: node
   linkType: hard
 
 "@netlify/plugin-nextjs@npm:^4.36.0":
-  version: 4.38.1
-  resolution: "@netlify/plugin-nextjs@npm:4.38.1"
+  version: 4.39.3
+  resolution: "@netlify/plugin-nextjs@npm:4.39.3"
   dependencies:
     "@netlify/esbuild": 0.14.39
     "@netlify/functions": ^1.6.0
-    "@netlify/ipx": ^1.4.1
+    "@netlify/ipx": ^1.4.2
     "@vercel/node-bridge": ^2.1.0
     chalk: ^4.1.2
     chokidar: ^3.5.3
@@ -475,13 +475,13 @@ __metadata:
     node-stream-zip: ^1.15.0
     outdent: ^0.8.0
     p-limit: ^3.1.0
-    pathe: ^0.2.0
+    pathe: ^0.3.0
     pretty-bytes: ^5.6.0
     regexp-tree: ^0.1.24
     semver: ^7.3.5
     slash: ^3.0.0
     tiny-glob: ^0.2.9
-  checksum: ec189e72a53a18bb6fb9f25f0961568869deb0a730c07725829e109e12ec1ed81d6a31461becd2502a64d60f51000f8bd93dcbdace8a4973ab0a80361dd8d977
+  checksum: 1d8dc863278f24515d2498169065a61116603beabfa43514f1cfbca21fb0838d4d5746222ba9ff73e2e3977127f1bba302f31110f6dc8350ea47b926379ba4b5
   languageName: node
   linkType: hard
 
@@ -4435,10 +4435,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"pathe@npm:^0.2.0":
-  version: 0.2.0
-  resolution: "pathe@npm:0.2.0"
-  checksum: 9a8149ce152088f30d15b0b03a7c128ba21f16b4dc1f3f90fe38eee9f6d0f1d6da8e4e47bd2a4f9e14aaac7c30ed01cfc86216479011de2bdc598b65e6f19f41
+"pathe@npm:^0.3.0":
+  version: 0.3.9
+  resolution: "pathe@npm:0.3.9"
+  checksum: 9afcbaa79c5f8ec603b6b0a20b9accfcec8de57e26738f4a844de4625cfb07cc733b7234387ef42c7ab23a49b91846b6b51cb247584793842a3179539af463df
   languageName: node
   linkType: hard
 
